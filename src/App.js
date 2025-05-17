@@ -5,7 +5,6 @@ import StudentTable from "./components/StudentTable";
 function App() {
   return (
     <Box>
-      Hello Janooooo!!!!!!!!
       <StudentTable />
     </Box>
   );
